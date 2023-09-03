@@ -1,0 +1,43 @@
+2023-08-30 15:37:26,723 - INFO - Added 10 and 5, result: 15
+2023-08-30 15:37:26,724 - INFO - Subtracted 5 from 10, result: 5
+2023-08-30 15:37:26,724 - INFO - Multiplied 10 by 5, result: 50
+2023-08-30 15:37:47,925 - INFO - Added 10 and 5, result: 15
+2023-08-30 15:37:47,925 - INFO - Subtracted 5 from 10, result: 5
+2023-08-30 15:37:47,925 - INFO - Multiplied 10 by 5, result: 50
+2023-08-30 15:41:37,063 - INFO - Added 1.0 and 3.0, result: 4.0
+2023-08-30 15:41:37,063 - INFO - Subtracted 3.0 from 1.0, result: -2.0
+2023-08-30 15:41:37,063 - INFO - Multiplied 1.0 by 3.0, result: 3.0
+2023-08-31 09:31:13,197 - INFO - Added 8.0 and 4.0, result: 12.0
+2023-08-31 09:31:13,230 - INFO - Subtracted 4.0 from 8.0, result: 4.0
+2023-08-31 09:31:13,230 - INFO - Multiplied 8.0 by 4.0, result: 32.0
+2023-08-31 09:31:13,231 - INFO - Divided 8.0 by 4.0, result: 2.0
+2023-08-31 09:31:31,577 - INFO - Added 0.0 and 7.0, result: 7.0
+2023-08-31 09:31:31,577 - INFO - Subtracted 7.0 from 0.0, result: -7.0
+2023-08-31 09:31:31,577 - INFO - Multiplied 0.0 by 7.0, result: 0.0
+2023-08-31 09:31:31,577 - INFO - Divided 0.0 by 7.0, result: 0.0
+2023-08-31 09:31:56,978 - INFO - Added 0.0 and 7.0, result: 7.0
+2023-08-31 09:31:56,978 - INFO - Subtracted 7.0 from 0.0, result: -7.0
+2023-08-31 09:31:56,978 - INFO - Multiplied 0.0 by 7.0, result: 0.0
+2023-08-31 09:31:56,978 - INFO - Divided 0.0 by 7.0, result: 0.0
+2023-08-31 09:32:04,664 - INFO - Added 7.0 and 0.0, result: 7.0
+2023-08-31 09:32:04,664 - INFO - Subtracted 0.0 from 7.0, result: 7.0
+2023-08-31 09:32:04,664 - INFO - Multiplied 7.0 by 0.0, result: 0.0
+2023-08-31 09:32:04,664 - ERROR - Division by zero attempted
+2023-08-31 10:14:03,066 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-31 10:14:03,066 - INFO - [33mPress CTRL+C to quit[0m
+2023-08-31 10:14:03,066 - INFO -  * Restarting with stat
+2023-08-31 10:14:03,662 - WARNING -  * Debugger is active!
+2023-08-31 10:14:03,662 - INFO -  * Debugger PIN: 460-892-878
+2023-08-31 10:18:59,758 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-08-31 10:18:59,758 - INFO - [33mPress CTRL+C to quit[0m
+2023-08-31 10:18:59,763 - INFO -  * Restarting with stat
+2023-08-31 10:19:00,409 - WARNING -  * Debugger is active!
+2023-08-31 10:19:00,409 - INFO -  * Debugger PIN: 982-903-845
+2023-08-31 20:02:54,888 - INFO -  * Detected change in 'C:\\Users\\rfond\\OneDrive\\\u05e9\u05d5\u05dc\u05d7\u05df \u05d4\u05e2\u05d1\u05d5\u05d3\u05d4\\\u05dc\u05d9\u05de\u05d5\u05d3\u05d9\u05dd\\3008\\calc\\1.py', reloading
+2023-08-31 20:02:55,002 - INFO -  * Restarting with stat
+2023-08-31 20:03:50,262 - INFO - Added 9.0 and 0.0, result: 9.0
+2023-08-31 20:03:50,262 - INFO - Subtracted 0.0 from 9.0, result: 9.0
+2023-08-31 20:03:50,264 - INFO - Multiplied 9.0 by 0.0, result: 0.0
+2023-08-31 20:03:50,264 - ERROR - Division by zero attempted
